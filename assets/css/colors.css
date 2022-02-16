@@ -1,0 +1,153 @@
+:root {
+    --black: #000000;
+    --bright-black: #505050;
+
+    --red: #c91b00;
+    --bright-red: #ff0000;
+
+    --green: #00c202;
+    --bright-green: #00ff00;
+
+    --yellow: #c7c400;
+    --bright-yellow: #ffff00;
+
+    --blue: #0225c7;
+    --bright-blue: #0030ff;
+
+    --pink: #c930c7;
+    --bright-pink: #ff00ff;
+
+    --cyan: #00c5c7;
+    --bright-cyan: #00ffff;
+
+    --white: #aaaaaa;
+    --bright-white: #ffffff;
+}
+
+.fg-black {
+    color: var(--black);
+}
+
+.fg-bright-black {
+    color: var(--bright-black);
+}
+
+.bg-black {
+    background-color: var(--black);
+}
+
+.bg-bright-black {
+    background-color: var(--bright-black);
+}
+
+.fg-red {
+    color: var(--red);
+}
+
+.fg-bright-red {
+    color: var(--bright-red);
+}
+
+.bg-red {
+    background-color: var(--red);
+}
+
+.bg-bright-red {
+    background-color: var(--bright-red);
+}
+
+.fg-green {
+    color: var(--green);
+}
+
+.fg-bright-green {
+    color: var(--bright-green);
+}
+
+.bg-green {
+    background-color: var(--green);
+}
+
+.bg-bright-green {
+    background-color: var(--bright-green);
+}
+
+.fg-yellow {
+    color: var(--yelow);
+}
+
+.fg-bright-yellow {
+    color: var(--bright-yelow);
+}
+
+.bg-yellow {
+    background-color: var(--yelow);
+}
+
+.bg-bright-yellow {
+    background-color: var(--bright-yelow);
+}
+
+.fg-blue {
+    color: var(--blue);
+}
+
+.fg-bright-blue {
+    color: var(--bright-blue);
+}
+
+.bg-blue {
+    background-color: var(--blue);
+}
+
+.bg-bright-blue {
+    background-color: var(--bright-blue);
+}
+
+.fg-pink {
+    color: var(--pink);
+}
+
+.fg-bright-pink {
+    color: var(--bright-pink);
+}
+
+.bg-pink {
+    background-color: var(--pink);
+}
+
+.bg-bright-pink {
+    background-color: var(--bright-pink);
+}
+
+.fg-cyan {
+    color: var(--cyan);
+}
+
+.fg-bright-cyan {
+    color: var(--bright-cyan);
+}
+
+.bg-cyan {
+    background-color: var(--cyan);
+}
+
+.bg-bright-cyan {
+    background-color: var(--bright-cyan);
+}
+
+.fg-white {
+    color: var(--white);
+}
+
+.fg-bright-white {
+    color: var(--bright-white);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
+
+.bg-bright-white {
+    background-color: var(--bright-white);
+}
